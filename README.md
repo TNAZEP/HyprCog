@@ -1,0 +1,2 @@
+# HyprCog
+My Hyprland dots
