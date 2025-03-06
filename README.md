@@ -20,8 +20,6 @@ My Personal dutfiles for hyprland on Arch
 - **OS**: CachyOS (Also Functions on other arch distributions)
 - **Compositor**: [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Top- and sidebar**: [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
-- **Notifications**: [dunst](https://github.com/dunst-project/dunst)
-- **Wallpaper Loader**: [swww](https://github.com/Horus645/swww)
 - **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
 - **Search menu**: [wofi](https://github.com/uncomfyhalomacro/wofi)
 - **Browser**: Zen Browser
