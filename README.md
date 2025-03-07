@@ -21,8 +21,8 @@ My Personal dutfiles for hyprland on Arch
 - **Compositor**: [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Top- and sidebar**: [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
 - **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
-- **Search menu**: [wofi](https://github.com/uncomfyhalomacro/wofi)
-- **Browser**: Zen Browser
+- **Search menu**: [rofi](https://github.com/davatorium/rofi)
+- **Browser**: [Zen Browser](https://github.com/zen-browser) 
 - **Font**: [Nerd Font](https://www.nerdfonts.com/)
 
 # Usage
