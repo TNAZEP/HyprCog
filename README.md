@@ -5,7 +5,7 @@ My Personal dotfiles for hyprland on Arch
 
 # **HyprCog Dot Files**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/TNAZEP/dotfiles-hyprland?style=for-the-badge&color=9300ff) ![GitHub repo size](https://img.shields.io/github/repo-size/TNAZEP/dotfiles-hyprland?style=for-the-badge&color=9300ff)
+![GitHub last commit](https://img.shields.io/github/last-commit/TNAZEP/HyprCog?style=for-the-badge&color=9300ff) ![GitHub repo size](https://img.shields.io/github/repo-size/TNAZEP/HyprCog?style=for-the-badge&color=9300ff)
 
 
 <br/>
