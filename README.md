@@ -1,5 +1,5 @@
 # ‼️‼️‼️ Disclaimer ‼️‼️‼️
-My Personal dutfiles for hyprland on Arch
+My Personal dotfiles for hyprland on Arch
  
 <div align="center">
 
@@ -45,11 +45,6 @@ cp -r ./* ~/.config/hypr
 mv ~/.config/hypr/_hyprland.conf ~/.config/hypr/hyprland.conf 
 ```
 
-### Switching Primary Screen
-Add this line to your config:
-```conf
-exec=~/.config/hypr/scripts/variables/set_env primary [ID_OF_PRIMAR_SCREEN] # 0, 1, 2, ...
-```
 ## ✨ Theming Other Applications
 
 <details>
@@ -116,10 +111,6 @@ All keybinds can be found in the `keybinds` folder
 - `SUPER+SHIFT+B`: Reset Top Bar (e.g. when connecting new screen)
 
 # ⭐ Credits
-- [Back777space](https://github.com/Back777space): for contributing🗿🗿🗿
-- [Zenneh](https://github.com/zenneh): the Obsidian theme
-- [Taylor85345](https://github.com/taylor85345): the well-organized dotfiles, and top-bar
-- [flick0](https://github.com/flick0): inspiring hyprland-setup and useful scripts
 - [Vaxry](https://github.com/vaxerski): hyprland
 
 
