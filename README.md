@@ -21,7 +21,7 @@ My Personal dotfiles for hyprland on Arch
 - **Compositor**: [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
-- **Menu**: [Wofi](https://github.com/SimplyCEO/wofi)
+- **Menu**: [Rofi](https://github.com/lbonn/rofi)
 - **Browser**: [Zen Browser](https://github.com/zen-browser) 
 - **Font**: [Nerd Font](https://www.nerdfonts.com/)
 
