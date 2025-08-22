@@ -17,9 +17,9 @@ My Personal dotfiles for hyprland on Arch
 </div>
 
 # Details
-- **OS**: CachyOS (Also Functions on other arch distributions)
+- **OS**: [Arch Linux](https://archlinux.org/)
 - **Compositor**: [Hyprland](https://github.com/hyprwm/Hyprland)
-- **Top- and sidebar**: [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
+- **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
 - **Search menu**: [rofi](https://github.com/davatorium/rofi)
 - **Browser**: [Zen Browser](https://github.com/zen-browser) 
