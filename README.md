@@ -22,6 +22,7 @@ My Personal dotfiles for hyprland on Arch
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
 - **Menu**: [Rofi](https://github.com/lbonn/rofi)
+- **Notifications**: [Dunst](https://github.com/dunst-project/dunst)
 - **Browser**: [Zen Browser](https://github.com/zen-browser) 
 - **Font**: [Nerd Font](https://www.nerdfonts.com/)
 
@@ -29,7 +30,7 @@ My Personal dotfiles for hyprland on Arch
 ## 📦 Required dependencies:
 Install these dependencies manually (Arch) 
 ```shell
-hyprland whitesur-icon-theme ghostty zen-browser 
+hyprland whitesur-icon-theme ghostty zen-browser dunst rofi
 ```
 Background utility:
 `swww`
