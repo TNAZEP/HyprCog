@@ -1,5 +1,5 @@
 # ‼️‼️‼️ Disclaimer ‼️‼️‼️
-My Personal dotfiles for hyprland on Arch
+My personal hyprland config. Designed on Arch but should work fine on any distro
  
 <div align="center">
 
