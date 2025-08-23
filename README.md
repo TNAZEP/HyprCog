@@ -30,11 +30,8 @@ My Personal dotfiles for hyprland on Arch
 ## 📦 Required dependencies:
 Install these dependencies manually (Arch) 
 ```shell
-hyprland whitesur-icon-theme ghostty zen-browser dunst rofi
+hyprland whitesur-icon-theme ghostty zen-browser dunst rofi hyprlock brightnessctl alsa-utils
 ```
-Background utility:
-`swww`
-Follow the [Quick Start Instructions from Hyprland](https://wiki.hyprland.org/Getting-Started/Quick-start/)
 
 ## 🧙‍♂️ Setup Hyprland Config
 Copy all files from the repo to your hyprland config folder, and rename `_hyprland.conf` to `hyprland.conf` .
