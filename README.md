@@ -54,23 +54,19 @@ mv ~/.config/hypr/_hyprland.conf ~/.config/hypr/hyprland.conf
 
 # ⌨️ Keybinds 
 All keybinds can be found in the `keybinds` folder
-- `SUPER+SPACE`: Application Launcher (wofi)
+- `SUPER+SPACE`: Application Menu
+- `SUPER+SHIFT+SPACE`: Power Menu
 - `SUPER+Z`: Prev workspace
 - `SUPER+X`: Next workspace
 - `SUPER+CTRL+M`: Quit Hyprland
 - `SUPER+1,...9,0`: Switch workspace
 - `SUPERA+SHIFT+1,...9,0`: Move window to workspace
-- `SUPER+ALT+1,...9,0`: Move window to workspace (silent)
-- `SUPER+B`: Switch Wallpaper
-- `SUPER+V`: Open clipboard history
-- `SUPER+RETURN` or `SUPER+T`: Kitty
-- `SUPER+F`: Firefox
-- `SUPER+O`: Obsidian
-- `SUPER+E`: Nautilus
-- `SUPER+C`: Zed Editor
-- `PRINT`: Screenshot a part of your screen
-- `SUPER+PRINT`: Record a part of your screen
-- `SUPER+SHIFT+B`: Reset Top Bar (e.g. when connecting new screen)
+- `SUPER+RETURN`: Terminal
+- `SUPER+F`: Browser
+- `SUPER+E`: File Browser
+- `SUPER+C`: Editor
+- `SUPER+SHIFT+S`: Screenshot a part of your screen
+- `SUPER+SHIFT+C`: Reset Top Bar (e.g. when connecting new screen)
 
 # ⭐ Credits
 - [Vaxry](https://github.com/vaxerski): hyprland
