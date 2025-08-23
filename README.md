@@ -113,7 +113,7 @@ All keybinds can be found in the `keybinds` folder
 
 # ⭐ Credits
 - [Vaxry](https://github.com/vaxerski): hyprland
-- [Martin Djakovic]((https://github.com/martin-djakovic)): Inspiration and some configs
+- [Martin Djakovic]((https://github.com/martin-djakovic): Inspiration and some configs
 
 
 ---
