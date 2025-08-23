@@ -149,10 +149,10 @@ configuration {
 @theme "/dev/null"
 
 * {
-    bg: #101010;
+    bg: #181616;
     bg-alt: #252525;
-    fg: #f6f1ea;
-    accent: #afa193;
+    fg: #c5c9c5;
+    accent: #c4746e;
     background-color: @bg;
 
     color: @fg;
@@ -166,8 +166,8 @@ configuration {
 
 window {
     width: 385px;
-    border: 1px solid;
-    border-color: @bg-alt;
+    border: 2px solid;
+    border-color: @fg;
 }
 
 element {

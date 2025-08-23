@@ -1,16 +1,21 @@
-@define-color accent #afa193;
-@define-color fg #f6f1ea;
-@define-color bg #101010;
-@define-color bg-alt #252525;
+@define-color accent #c4746e;
+@define-color fg #c5c9c5;
+@define-color bg #181616;
+@define-color bg-alt #a6a69c;
 
 * {
     font-size: 16px;
     min-height: 0;
 }
 
+
 window#waybar {
+    margin: 10px 10px 0px 10px;
     background-color: @bg;
-    border-bottom: 1px solid @bg-alt;
+    border-bottom: 2px solid @bg-alt;
+    border-left: 2px solid @bg-alt;
+    border-right: 2px solid @bg-alt;
+    border-top: 2px solid @bg-alt;
 }
 
 #mode {
@@ -31,7 +36,9 @@ window#waybar {
 
 #workspaces {
     font-family: "JetBrainsMono Nerd Font";
-    border-bottom: 1px solid @bg-alt;
+    border-bottom: 2px solid @bg-alt;
+    border-left: 2px solid @bg-alt;
+    border-top: 2px solid @bg-alt;
 }
 
 #workspaces button {

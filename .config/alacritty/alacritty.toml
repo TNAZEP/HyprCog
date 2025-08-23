@@ -1,57 +1,40 @@
 [colors.primary]
-background = "#101010"
-foreground = "#f6f1ea"
+foreground = "#c5c9c5"
+background = "#181616"
 
 [colors.cursor]
-text   = "#101010"
-cursor = "#f6f1ea"
-
-[colors.vi_mode_cursor]
-text   = "#101010"
-cursor = "#f6f1ea"
-
-[colors.search.matches]
-foreground = "#101010"
-background = "#f6f1ea"
-
-[colors.search.focused_match]
-foreground = 'CellBackground'
-background = 'CellForeground'
-
-[colors.line_indicator]
-foreground = 'None'
-background = 'None'
-
-[colors.footer_bar]
-foreground = "#989085"
-background = "#f6f1ea"
+text = "#181616"
+cursor = "#c5c9c5"
 
 [colors.selection]
-text       = 'CellBackground'
-background = 'CellForeground'
+text = "#c8c093"
+background = "#2d4f67"
 
 [colors.normal]
-black   = "#101010"
-red     = "#9f886a"
-green   = "#ad9474"
-yellow  = "#c2a47b"
-blue    = "#707b84"
-magenta = "#7a858b"
-cyan    = "#afa193"
-white   = "#f6f1ea"
+black = "#0d0c0c"
+red = "#c4746e"
+green = "#8a9a7b"
+yellow = "#c4b28a"
+blue = "#8ba4b0"
+magenta = "#a292a3"
+cyan = "#8ea4a2"
+white = "#c8c093"
 
 [colors.bright]
-black   = "#989085"
-red     = "#9F886A"
-green   = "#AD9474"
-yellow  = "#C2A47B"
-blue    = "#707B84"
-magenta = "#7A858B"
-cyan    = "#afa193"
-white   = "#f6f1ea"
+black = "#a6a69c"
+red = "#e46876"
+green = "#87a987"
+yellow = "#e6c384"
+blue = "#7fb4ca"
+magenta = "#938aa9"
+cyan = "#7aa89f"
+white = "#c5c9c5"
+
+
+
 
 [font]
-size = 14.0
+size = 12.0
 
 [font.normal]
 family = "JetBrainsMono Nerd Font"
