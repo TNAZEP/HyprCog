@@ -1,6 +1,9 @@
+<div align="center">
+
 # ‼️‼️‼️ Disclaimer ‼️‼️‼️
 My personal hyprland config. Designed on Arch but should work fine on any distro
- 
+
+</div>
 <div align="center">
 
 # **HyprCog Dot Files**
