@@ -12,7 +12,7 @@ My Personal dotfiles for hyprland on Arch
 
 ##  Showcase
 
-![screen_1](/assets/screenshots/ImagesShowcase.png)
+![screen_1](/assets/screenshots/ImageShowcase.png)
 
 </div>
 
@@ -76,4 +76,5 @@ All keybinds can be found in the `keybinds` folder
 <br/>
 
 # 🔨 TO-DO
+- Add auto colour generation
 ...
