@@ -116,7 +116,7 @@ typeset -A menu
 menu=(
   [reboot]="systemctl reboot"
   [shutdown]="systemctl poweroff"
-  [lock]="/usr/local/bin/lock"
+  [lock]="$HOME/.config/HyprCog/lock"
   [cancel]=""
 )
 menu_nrows=${#menu[@]}
