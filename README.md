@@ -76,7 +76,6 @@ All keybinds can be found in the `keybinds` folder
 - [Vaxry](https://github.com/vaxerski): hyprland
 - [Martin Djakovic](https://github.com/martin-djakovic): Inspiration and base config
 
-
 ---
 
 <br/>
