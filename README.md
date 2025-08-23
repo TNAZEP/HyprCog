@@ -30,7 +30,7 @@ My Personal dotfiles for hyprland on Arch
 ## 📦 Required dependencies:
 Install these dependencies manually (Arch) 
 ```shell
-hyprland whitesur-icon-theme ghostty zen-browser dunst rofi hyprlock brightnessctl alsa-utils
+hyprland alacritty dunst rofi hyprlock brightnessctl alsa-utils
 ```
 
 ## 🧙‍♂️ Setup Hyprland Config
