@@ -20,7 +20,7 @@ My Personal dotfiles for hyprland on Arch
 - **OS**: [Arch Linux](https://archlinux.org/)
 - **Compositor**: [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
-- **Terminal**: [Ghostty](https://github.com/ghostty-org/ghostty)
+- **Terminal**: [Alacritty](https://github.com/alacritty/alacritty/releases)
 - **Menu**: [Rofi](https://github.com/lbonn/rofi)
 - **Notifications**: [Dunst](https://github.com/dunst-project/dunst)
 - **Browser**: [Zen Browser](https://github.com/zen-browser) 
@@ -34,13 +34,11 @@ hyprland alacritty dunst rofi hyprlock brightnessctl alsa-utils
 ```
 
 ## 🧙‍♂️ Setup Hyprland Config
-Copy all files from the repo to your hyprland config folder, and rename `_hyprland.conf` to `hyprland.conf` .
+Copy all files from the repo to your hyprland config folder, and rename to `hyprland.conf` .
 ```bash
 git clone https://github.com/TNAZEP/HyprCog.git
-cd dotfiles-hyprland
+cd HyprCog
 cp -r ./* ~/.config/hypr
-# Rename config file
-mv ~/.config/hypr/_hyprland.conf ~/.config/hypr/hyprland.conf 
 ```
 
 </details>
