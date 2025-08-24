@@ -33,16 +33,14 @@ My personal hyprland config. Designed on Arch but should work fine on any distro
 ## 📦 Required dependencies:
 Install these dependencies manually (Arch) 
 ```shell
-hyprland alacritty dunst rofi hyprlock brightnessctl alsa-utils
+hyprland alacritty dunst rofi hyprlock brightnessctl alsa-utils qt5ct qt6ct
 ```
 
 ## 🧙‍♂️ Setup Hyprland Config
-Copy all files from the repo to your hyprland config folder, and rename to `hyprland.conf` .
-```bash
-git clone https://github.com/TNAZEP/HyprCog.git
-cd HyprCog
-cp -r ./* ~/.config/hypr
-```
+Clone the repo and put the files in their correct location.
+Edit the files under .config/hypr/custom to override defaults.
+When updating dotfiles in the future do not replace the files under the custom folder to keep your overrides.
+
 
 </details>
 
