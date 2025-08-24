@@ -72,4 +72,5 @@ All keybinds can be found in the `keybinds` folder
 <br/>
 
 # 🔨 TO-DO
+- Potential rebuild in quickshell in the future.
 ...
