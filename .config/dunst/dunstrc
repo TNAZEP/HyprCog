@@ -33,7 +33,7 @@
     origin = top-right
 
     # Offset from the origin
-    offset = 5x5
+    offset = 10x10
 
     # Scale factor. It is auto-detected if value is 0.
     scale = 0
@@ -92,10 +92,10 @@
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
-    frame_width = 1
+    frame_width = 2
 
     # Defines color of the frame around the notification window.
-    frame_color = "#252525"
+    frame_color = "#a6a69c"
 
     # Size of gap to display between notifications - requires a compositor.
     # If value is greater than 0, separator_height will be ignored and a border
@@ -299,9 +299,9 @@
     mouse_middle_click = do_action, close_current
     mouse_right_click = close_all
 
-    highlight = "#afa193"
-    background = "#101010"
-    foreground = "#f6f1ea"
+    highlight = "#e46876"
+    background = "#181616"
+    foreground = "#c8c093"
 
 # Experimental features that may or may not work correctly. Do not expect them
 # to have a consistent behaviour across releases.
