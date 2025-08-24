@@ -72,5 +72,4 @@ All keybinds can be found in the `keybinds` folder
 <br/>
 
 # 🔨 TO-DO
-- Add auto colour generation
 ...
