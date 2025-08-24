@@ -73,5 +73,4 @@ All keybinds can be found in the `keybinds` folder
 
 # 🔨 TO-DO
 - Add auto colour generation
-- Fix some issues with file dialogues and QT
 ...
